@@ -26,7 +26,7 @@ Portfolio: *on the way!*
 Meu nome é Luca Gulak (mas pode me chamar de LcGk), um programador autodidata de 16 anos que adora aprender coisas novas. <br/>
 Meu foco atual é aprender ReactJS no curso da [Rocketseat](https://github.com/RocketSeat), mas estou sempre em busca de novas tecnologias para estar sempre alinhado com as atuais tendências na programação.
 Além de desenvolvimento web, também gosto de estudar sobre segurança da informação e malware (como um [hacker ético](https://www.portalgsti.com.br/profissoes-de-ti/hacker-etico/)). <br/>
-**Estou aberto a propostas de emprego para desenvolvimento front-ed, você pode entrar em contato comigo pelo meu [perfil do Github](https://github.com/LcGk) ou pelo meu [perfil do Linkedin](https://www.linkedin.com/in/luca-g-3263b018a/)**
+**Estou aberto a propostas de emprego para desenvolvimento front-end, você pode entrar em contato comigo pelo meu [perfil do Github](https://github.com/LcGk) ou pelo meu [perfil do Linkedin](https://www.linkedin.com/in/luca-g-3263b018a/)**
 ### As linguagens/tecnologias de programação que eu uso principalmente são:
 * Javascript
 * Typescript
