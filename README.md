@@ -36,7 +36,7 @@ Além de desenvolvimento web, também gosto de estudar sobre segurança da infor
 * SASS
 * Bootstrap CSS
 * Tailwind CSS
-* [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))
+* [Rust](https://pt.wikipedia.org/wiki/Rust_(linguagem_de_programa%C3%A7%C3%A3o))
 * Python3
 
 Portifólio: *em desenvolvimento!*
