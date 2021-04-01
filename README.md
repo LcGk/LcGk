@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/LcGk/LcGk/main/LCGK_LOGO.png)
 
-*[(versão em PT-BR)](https://www.google.com)*
+*[(versão em PT-BR)](#ol%C3%A1-)*
 
 # Hi! 👋
 I'm Luca Gulak (aka LcGk), a 16 years old self-taught developer from Brazil that loves learning new things. <br/>
