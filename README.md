@@ -12,6 +12,7 @@ Besides web development, i also like to study about information security and mal
 * Javascript
 * Typescript
 * ReactJS
+* NextJS
 * HTML5
 * CSS3
 * SASS
