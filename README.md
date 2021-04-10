@@ -32,6 +32,7 @@ Além de desenvolvimento web, também gosto de estudar sobre segurança da infor
 * Javascript
 * Typescript
 * ReactJS
+* NextJS
 * HTML5
 * CSS3
 * SASS
